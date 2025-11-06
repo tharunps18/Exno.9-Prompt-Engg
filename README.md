@@ -172,6 +172,7 @@ Understanding and experimenting with prompt engineering helps creators harness A
 ## prompt:
 ### A dog running in a park
 ### output:
+<img width="1344" height="768" alt="image" src="https://github.com/user-attachments/assets/7fcc4daf-2563-405c-a00d-70f4e6ecdd75" />
 
 https://github.com/user-attachments/assets/720d66e3-65fc-49cb-a414-aee186f107d7
 
